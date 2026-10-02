@@ -2,9 +2,11 @@
 
 ## Tecnologias utilizadas:
 
-* MySQL
+* MySQL 
 * JS
 * XAMPP
 * PHP
 
 aqui vou armazenar meus trabalhos relativos a Banco de Dados 
+
+(Este projeto foi virtualizado via CloudFlare, com BD em SQlite e API em JS)
